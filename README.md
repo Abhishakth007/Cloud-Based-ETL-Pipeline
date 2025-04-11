@@ -67,5 +67,5 @@ This project demonstrates a complete **end-to-end ETL pipeline** using **AWS S3*
 ## 🙌 Author
 
 Built with caffeine & curiosity by **Abhishakth** ☕  
-Reach out for collabs, data problems, or resume reviews!
+Reach out for collabs, data problems!
 
